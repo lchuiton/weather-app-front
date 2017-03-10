@@ -1,0 +1,35 @@
+td, th {
+    vertical-align: middle !important;
+    text-align: center;
+}
+
+.small {
+    width: 15%;
+}
+
+.chart-display {
+    width: 25% ;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+svg {
+    height: 150px;
+    width: 95%;
+}
+
+td:first-of-type, td:first-of-type > div {
+    height: 200px;
+    width: 250px;
+}
+
+.notClickable {
+    pointer-events: none;
+}
+
+.search-map-div {
+    height: 1000px;
+    width: 800px;
+}
